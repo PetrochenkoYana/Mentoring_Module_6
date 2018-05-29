@@ -1,0 +1,5 @@
+D:\D1-D2\07. Basic SQL\Task\Northwind_SSDT\Northwind\sql\debug\Northwind.dacpac
+D:\D1-D2\07. Basic SQL\Task\Northwind_SSDT\Northwind\sql\debug\Northwind.dll
+D:\D1-D2\07. Basic SQL\Task\Northwind_SSDT\Northwind\sql\debug\Northwind.pdb
+D:\D1-D2\07. Basic SQL\Task\Northwind_SSDT\Northwind\obj\Debug\Northwind.dll
+D:\D1-D2\07. Basic SQL\Task\Northwind_SSDT\Northwind\obj\Debug\Northwind.pdb
